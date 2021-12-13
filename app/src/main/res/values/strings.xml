@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Multi_Auto_com_textview</string>
+
+    <string-array name="anime_array">
+        <item>Attack on Titan</item>
+        <item>Boku no Pico</item>
+        <item>Charollete</item>
+        <item>Dank Slum</item>
+        <item>Enn Enn no shobutai</item>
+        <item>Fruits Basket</item>
+        <item>Gintama</item>
+        <item>Hunter x Hunter</item>
+    </string-array>
+</resources>
+
+
+
